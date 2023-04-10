@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "fname": "abc ",
+    "lname": "xyz",
+    "birthdate": "2010-03-22",
+    "address1": "Balaji park",
+    "address2": "Mavdi",
+    "birthplace": "rajkot",
+    "pnumber": "9999999999"
+  },
+  {
+    "id": 2,
+    "fname": "cde ",
+    "lname": "pqr",
+    "birthdate": "2010-03-20",
+    "address1": "Ambika township",
+    "address2": "Speedwell partyplot",
+    "birthplace": "jamnagar",
+    "pnumber": "8888888888"
+  }
+]
